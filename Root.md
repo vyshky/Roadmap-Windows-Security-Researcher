@@ -8,6 +8,7 @@
 - [Executable_File_Structure](Executable_File_Structure.md)
 
 ## Инструменты
+- [CheatEngine](CheatEngine.md)
 - [IDA_Pro](IDA_Pro.md)
 - [Ghidra](Ghidra.md)
 - [radare2](radare2.md)
