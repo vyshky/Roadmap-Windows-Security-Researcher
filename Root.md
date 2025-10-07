@@ -1,5 +1,5 @@
 # Reverse Engineering Hub
-## _Направления
+## Направления
 - [Base](Base.md)
 - [Lena151](Lena151.md)
 - [Driver_Development_&_Analysis](Driver_Development_&_Analysis.md)
@@ -7,7 +7,7 @@
 - [Malware_Analysis](Malware_Analysis.md)
 - [Executable_File_Structure](Executable_File_Structure.md)
 
-## _Инструменты
+## Инструменты
 - [IDA_Pro](IDA_Pro.md)
 - [Ghidra](Ghidra.md)
 - [radare2](radare2.md)
@@ -15,7 +15,7 @@
 - [WinAFL](WinAFL.md)
 - [Windbg](Windbg.md)
 
-## _Техники
+## Техники
 - [Unpacking](Unpacking.md)
 - [Anti-VM_detection](Anti-VM_detection.md)
 - [Code_injection](Code_injection.md)
