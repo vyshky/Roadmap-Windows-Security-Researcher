@@ -8,13 +8,11 @@
 - [Executable_File_Structure](Executable_File_Structure.md)
 
 ## Инструменты
-- [CheatEngine](CheatEngine.md)
-- [IDA_Pro](IDA_Pro.md)
-- [Ghidra](Ghidra.md)
-- [radare2](radare2.md)
-- [x64dbg](x64dbg.md)
-- [WinAFL](WinAFL.md)
-- [Windbg](Windbg.md)
+- [Дебаг](./Инструменты/Дебаг.md)
+- [Фазеры](./Инструменты/Фазеры.md)
+- [Анализаторы](./Инструменты/Анализаторы.md)
+- [Гипервизоры](./Инструменты/Гипервизоры.md)
+
 
 ## Техники
 - [Unpacking](Unpacking.md)
