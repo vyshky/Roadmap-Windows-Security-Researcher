@@ -1,0 +1,232 @@
+{
+  "main": {
+    "id": "ba0a3717b54e1c2e",
+    "type": "split",
+    "children": [
+      {
+        "id": "09d444e87a805e98",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "03e18bdc66d7db52",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Root.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Root"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8b87623c149cef28",
+    "type": "split",
+    "children": [
+      {
+        "id": "48fe235de5ad352b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "66075179343a8dff",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "3807398d51f1eba8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "cccd94915672259d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "9256bd49191af4d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "131452e9cf88a2fd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "352908d83b7962da",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Tony hawk american wasteland.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Tony hawk american wasteland"
+            }
+          },
+          {
+            "id": "1155a7ce40423ea1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Tony hawk american wasteland.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Tony hawk american wasteland"
+            }
+          },
+          {
+            "id": "21d46436a27e648c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "47eb9943ffb879bc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Tony hawk american wasteland.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура Tony hawk american wasteland"
+            }
+          },
+          {
+            "id": "96d0ef4b95333a30",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {},
+              "icon": "ag-node-list",
+              "title": "Juggl nodes"
+            }
+          },
+          {
+            "id": "aa6c4463fb04e9c3",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {},
+              "icon": "ag-style",
+              "title": "Juggl style"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Граф": false,
+      "juggl:Juggl global graph": false,
+      "canvas:Создать новый холст": false,
+      "switcher:Меню быстрого перехода": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false,
+      "obsidian-excalidraw-plugin:Создать новый чертеж": false
+    }
+  },
+  "active": "03e18bdc66d7db52",
+  "lastOpenFiles": [
+    "Base.md",
+    "Root.md",
+    "Excalidraw/Drawing 2025-10-07 13.07.39.excalidraw.md",
+    "Excalidraw/Drawing 2025-10-07 13.07.34.excalidraw.md",
+    "Excalidraw/Scripts/Downloaded/Add Link to New Page and Open.md",
+    "Excalidraw/Scripts/Downloaded/Add Link to New Page and Open.svg",
+    "Excalidraw/Drawing 2025-10-07 13.08.24.excalidraw.md",
+    "Excalidraw/Drawing 2025-10-07 13.08.21.excalidraw.md",
+    "Excalidraw/Scripts/Downloaded",
+    "Excalidraw/Scripts",
+    "Excalidraw",
+    "Игры/Tonyhawks/Tony hawk american wasteland.md",
+    "Игры/COD4",
+    "Игры/Tonyhawks/02 Игра.md",
+    "Игры/Tonyhawks/01 Лаунчер.md",
+    "Кряк/QT5 функции.md",
+    "Кряк/java как exe.md",
+    "Требования.md",
+    "Windows Malware Analysis.md",
+    "Linux ELF Reversing.md",
+    "Игры",
+    "imges/Pasted image 20250830185611.png",
+    "Кряк",
+    "imges/Pasted image 20250830214932.png",
+    "Unpacking.md",
+    "radare2.md",
+    "x64dbg.md",
+    "imges",
+    "Pasted image 20250830185611.md",
+    "Pasted image 20250830145808.png",
+    "Pasted image 20250830185754.png",
+    "imges/Pasted image 20250830185910.png",
+    "Excalidraw/Drawing 2025-08-24 12.57.50.excalidraw.md",
+    "Игры/Tonyhawks",
+    "Добро пожаловать.md"
+  ]
+}
