@@ -1,23 +1,23 @@
-# Reverse Engineering Hub
-## Направления
+#_Reverse_Engineering_Hub
+##_Направления
 - [Base](Base.md)
 - [Lena151](Lena151.md)
-- [Driver Development & Analysis](Driver Development & Analysis.md)
-- [OS Security Research](OS Security Research.md)
-- [Malware Analysis](Malware Analysis.md)
-- [Executable File Structure](Executable File Structure.md)
-## Инструменты
-- [IDA Pro](IDA Pro.md)
+- [Driver_Development_&_Analysis](Driver_Development_&_Analysis.md)
+- [OS_Security_Research](OS_Security_Research.md)
+- [Malware_Analysis](Malware_Analysis.md)
+- [Executable_File_Structure](Executable_File_Structure.md)
+##_Инструменты
+- [IDA_Pro](IDA_Pro.md)
 - [Ghidra](Ghidra.md)
 - [radare2](radare2.md)
 - [x64dbg](x64dbg.md)
 - [WinAFL](WinAFL.md)
 - [Windbg](Windbg.md)
 
-## Техники
+##_Техники
 - [Unpacking](Unpacking.md)
-- [Anti-VM detection](Anti-VM detection.md)
-- [Code injection](Code injection.md)
+- [Anti-VM_detection](Anti-VM_detection.md)
+- [Code_injection](Code_injection.md)
 
-## Вакансии
- - [Требования](Требования.md)
+##_Вакансии
+- [Требования](Требования.md)
