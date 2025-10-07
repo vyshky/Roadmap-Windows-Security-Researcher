@@ -4,8 +4,6 @@
 - [Lena151](Lena151.md)
 - [Driver_Development_&_Analysis](Driver_Development_&_Analysis.md)
 - [OS_Security_Research](OS_Security_Research.md)
-- [Malware_Analysis](Malware_Analysis.md)
-- [Executable_File_Structure](Executable_File_Structure.md)
 
 ## Инструменты
 - [Дебаг](./Инструменты/Дебаг.md)
