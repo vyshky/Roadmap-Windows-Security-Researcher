@@ -1,9 +1,10 @@
 # Reverse Engineering Hub
 ## Этапы
-- [Base](./Этапы/Base.md)
+- [PT_Roadmap]([https://cybersecurity-roadmap.ru/](https://cybersecurity-roadmap.ru/))
 - [Lena151](Lena151.md)
 - [Driver_Development_&_Analysis](Driver_Development_&_Analysis.md)
 - [OS_Security_Research](OS_Security_Research.md)
+- [pwn.college](https://pwn.college/)
 
 ## Инструменты
 - [Дебаг](./Инструменты/Дебаг.md)
