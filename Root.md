@@ -1,6 +1,6 @@
 # Reverse Engineering Hub
 ## Этапы
-- [PT_Roadmap_Base_Theory]([https://cybersecurity-roadmap.ru/](https://cybersecurity-roadmap.ru/))
+- [PT_Roadmap_Base_Theory](https://cybersecurity-roadmap.ru/)
 - [Lena151](Lena151.md)
 - [Driver_Development_&_Analysis](Driver_Development_&_Analysis.md)
 - [OS_Security_Research](OS_Security_Research.md)
